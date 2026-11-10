@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Savanna Brew Café">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F5E9DA"/><stop offset="1" stop-color="#ead3b9"/></linearGradient></defs>
+<rect width="800" height="520" fill="url(#g)"/>
+<circle cx="650" cy="90" r="115" fill="#D9822B" opacity=".16"/><circle cx="120" cy="440" r="150" fill="#6F4E37" opacity=".08"/>
+<g><path d="M250 300h230l-22 125q-8 42-52 42H324q-44 0-52-42z" fill="#fffaf3" stroke="#6F4E37" stroke-width="10"/><path d="M480 325h35q52 0 40 55-8 38-59 38" fill="none" stroke="#6F4E37" stroke-width="12"/><path d="M290 300q75-55 150 0" fill="none" stroke="#D9822B" stroke-width="12"/><path d="M330 260q-30-35 0-65m65 65q-30-35 0-65" fill="none" stroke="#6F4E37" stroke-width="8" stroke-linecap="round"/></g>
+<text x="400" y="80" text-anchor="middle" font-family="Georgia,serif" font-size="34" fill="#6F4E37" font-weight="bold">Savanna Brew Café</text>
+<text x="400" y="478" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" fill="#6F4E37">Brewed in Kenya. Served with love.</text>
+</svg>
