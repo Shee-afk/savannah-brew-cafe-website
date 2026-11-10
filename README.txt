@@ -1,3 +1,16 @@
+# Savanna Brew Café Website
+
+A responsive website developed using HTML5 and CSS3.
+
+## Live Website
+
+[Click here to visit Savanna Brew Café](file:///C:/Users/user/Downloads/Savanna_Brew_Cafe_Website_sheila%202/savanna-brew/index.html)
+
+## Technologies Used
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
 SAVANNA BREW CAFE WEBSITE
 =========================
 
